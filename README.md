@@ -9,7 +9,7 @@ A sophisticated Retrieval-Augmented Generation (RAG) chatbot built with cutting-
 
 ## 🎥 Demo Video
 
-[![Watch the video]([https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://drive.google.com/file/d/1xg5xyq-AkLpIqf2LZgCtaqMtiwzVZFl1/view](https://drive.google.com/file/d/1EYW4JH7PzIIT83HavUtBp9HIxbUoql3v/view?usp=sharing))
+[![Watch the video](video1672307533.mp4)
 
 ## 📸 Screenshots
 
