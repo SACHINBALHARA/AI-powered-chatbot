@@ -1,1 +1,1 @@
-# RAG Chatbot Package
+# Core components
