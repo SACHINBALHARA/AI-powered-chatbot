@@ -19,11 +19,9 @@ A sophisticated Retrieval-Augmented Generation (RAG) chatbot built with cutting-
 
 
 ### Chat Interface
-![Chat Interface]([https://drive.google.com/uc?export=view&id=YOUR_SECOND_IMAGE_ID](https://drive.google.com/file/d/1Vs6kXiVhXOk6idmg58BnBLcpIYsX5VZt/view?usp=sharing))
+![Chat Interface](Screenshot_25-7-2025_115636_localhost.jpeg)
 
 
-### Chat Interface
-![Chat Interface]([[https://drive.google.com/uc?export=view&id=YOUR_SECOND_IMAGE_ID](https://drive.google.com/file/d/1Vs6kXiVhXOk6idmg58BnBLcpIYsX5VZt/view?usp=sharing)]
 
 ## 🌟 Key Features
 
