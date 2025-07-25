@@ -11,6 +11,14 @@ A sophisticated Retrieval-Augmented Generation (RAG) chatbot built with cutting-
 
 [![Watch the video](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://drive.google.com/file/d/1xg5xyq-AkLpIqf2LZgCtaqMtiwzVZFl1/view)
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](https://drive.google.com/uc?export=view&id=1a2B3cD4EFgh567IJklMNopQrStUvwXyz)
+
+### Chat Interface
+![Chat Interface](https://drive.google.com/uc?export=view&id=YOUR_SECOND_IMAGE_ID)
+
 ## 🌟 Key Features
 
 ### Advanced Document Processing
