@@ -9,15 +9,19 @@ A sophisticated Retrieval-Augmented Generation (RAG) chatbot built with cutting-
 
 ## 🎥 Demo Video
 
-[![Watch the video](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://drive.google.com/file/d/1xg5xyq-AkLpIqf2LZgCtaqMtiwzVZFl1/view)
+[![Watch the video]([https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://drive.google.com/file/d/1xg5xyq-AkLpIqf2LZgCtaqMtiwzVZFl1/view](https://drive.google.com/file/d/1EYW4JH7PzIIT83HavUtBp9HIxbUoql3v/view?usp=sharing))
 
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://drive.google.com/uc?export=view&id=1a2B3cD4EFgh567IJklMNopQrStUvwXyz)
+![Home Page]([https://drive.google.com/uc?export=view&id=1a2B3cD4EFgh567IJklMNopQrStUvwXyz](https://drive.google.com/file/d/1rSn4YxhopBK5jZ-aIZUraDeI-dmyka9N/view?usp=sharing))
 
 ### Chat Interface
-![Chat Interface](https://drive.google.com/uc?export=view&id=YOUR_SECOND_IMAGE_ID)
+![Chat Interface]([https://drive.google.com/uc?export=view&id=YOUR_SECOND_IMAGE_ID](https://drive.google.com/file/d/1Vs6kXiVhXOk6idmg58BnBLcpIYsX5VZt/view?usp=sharing))
+
+
+### Chat Interface
+![Chat Interface]([[https://drive.google.com/uc?export=view&id=YOUR_SECOND_IMAGE_ID](https://drive.google.com/file/d/1Vs6kXiVhXOk6idmg58BnBLcpIYsX5VZt/view?usp=sharing)]
 
 ## 🌟 Key Features
 
